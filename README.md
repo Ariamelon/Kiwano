@@ -1,5 +1,5 @@
 # Kiwano
- VIK module with rotary encoder ring and PMW3360/Cirque support.
+Ring rotary encoder and PMW3360/Cirque [VIK](https://github.com/sadekbaroudi/vik) module with RGB backlight.
 
 ## Disclaimer
 This board is licensed under CC BY 4.0.
@@ -18,9 +18,11 @@ This board is licensed under CC BY 4.0.
 | Uses: RGB               | Optional                | :heavy_check_mark: |
 | Uses: Extra GPIO 1      | Optional                | :heavy_check_mark: |
 | Uses: Extra GPIO 2      | Optional                | :heavy_check_mark: |
+| Standard PCB Size/Mount | Strongly Recommended    | Large              |
 
 ![Render](Showcase/Render-F.png)
 ![Render](Showcase/Render-B.png)
 
 ## Changelog
+* 29/07/2023: Added VIK size row to certification card.
 * 28/07/2023: Initial commit.
