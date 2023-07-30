@@ -24,5 +24,6 @@ This board is licensed under CC BY 4.0.
 ![Render](Showcase/Render-B.png)
 
 ## Changelog
+* 30/07/2023: Updated BOM.
 * 29/07/2023: Added VIK size row to certification card.
 * 28/07/2023: Initial commit.
