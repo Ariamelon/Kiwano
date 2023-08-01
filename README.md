@@ -4,6 +4,13 @@ Ring rotary encoder and PMW3360/Cirque [VIK](https://github.com/sadekbaroudi/vik
 ## Disclaimer
 This board is licensed under CC BY 4.0.
 
+## Key Features
+* PER56 rotary ring encoder.
+* Illuminated RGB ring.
+* Cirque trackpad support in the middle of the PER56.
+* PMW3360 and 34mm trackball support in the middle of the PER56, utilizing 7.5mm BTUs (e.g. Veichu VCN310 7.5mm).
+* Trackball has two styles: illuminated outer ring, and illuminated trackball.
+
 ## VIK module certification card
 
 | Category                | Classification          | Response           |
@@ -24,6 +31,7 @@ This board is licensed under CC BY 4.0.
 ![Render](Showcase/Render-B.png)
 
 ## Changelog
+* 01/08/2023: Files for trackpad mount and knob moved here from [Honeydew](https://github.com/Ariamelon/Honeydew/). Added trackball mount STEP files, using 7.5mm BTUs.
 * 30/07/2023: Updated BOM.
 * 29/07/2023: Added VIK size row to certification card.
 * 28/07/2023: Initial commit.
