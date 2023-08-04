@@ -172,7 +172,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.4
       ],
       "via_dimensions": [
         {
