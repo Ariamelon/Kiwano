@@ -31,6 +31,7 @@ This board is licensed under CC BY 4.0.
 ![Render](Showcase/Render-B.png)
 
 ## Changelog
+* 28/08/2023: Unified component libraries into one big library. Fixed 3DP files.
 * 04/08/2023: Updated SK6812 MINI-E and switch footprints. Changed VIK FFC to FH12. Stitched ground planes together. Fixed VIK footprint. Moved production files to easier to access location.
 * 02/08/2023: Fixed 3DP files.
 * 01/08/2023: Files for trackpad mount and knob moved here from [Honeydew](https://github.com/Ariamelon/Honeydew/). Added trackball mount STEP files, using 7.5mm BTUs.
