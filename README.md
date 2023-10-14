@@ -31,6 +31,7 @@ This board is licensed under CC BY 4.0.
 ![Render](Showcase/Render-B.png)
 
 ## Changelog
+* 14/10/2023: V1.1 update. Changed LDO to XC6206P202MR. Removed RC filter and pullup from encoder pins.
 * 18/09/2023: Fixed .gitignore file. Increased tolerances of PER-56 base mount.
 * 28/08/2023: Unified component libraries into one big library. Fixed 3DP files.
 * 04/08/2023: Updated SK6812 MINI-E and switch footprints. Changed VIK FFC to FH12. Stitched ground planes together. Fixed VIK footprint. Moved production files to easier to access location.
