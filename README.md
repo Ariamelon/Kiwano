@@ -2,7 +2,7 @@
 Ring rotary encoder and PMW3360/Cirque [VIK](https://github.com/sadekbaroudi/vik) module with RGB backlight.
 
 ## Disclaimer
-This board is licensed under CC BY 4.0.
+This board is licensed under CERN-OHL-S-2.0.
 
 ## Key Features
 * PER56 rotary ring encoder.
@@ -31,6 +31,7 @@ This board is licensed under CC BY 4.0.
 ![Render](Showcase/Render-B.png)
 
 ## Changelog
+* 22/10/2024: CERN-OHL-S-2.0 license added.
 * 14/10/2023: V1.1 update. Changed LDO to XC6206P202MR. Removed RC filter and pullup from encoder pins.
 * 18/09/2023: Fixed .gitignore file. Increased tolerances of PER-56 base mount.
 * 28/08/2023: Unified component libraries into one big library. Fixed 3DP files.
